@@ -3,7 +3,7 @@
 ## Problematização
 Previsão de vendas de uma empresa fictícia chamada Hashtag do ramo de publicidade que anuncia suas soluções na televisão, no rádio e no jornal.
 A empresa tem uma base de dados históricos com os valores de faturamento de suas vendas e os respectivos valores investidos nestes canais.
-De posse destes dados, a Hashtag deseja fazer uma previsão de suas vendas com base em três propostas de investimentos definidas pelo pessoal do Marketing.
+De posse destes dados, a Hashtag deseja fazer uma previsão de suas vendas com base em três propostas de investimentos definidas pelo pessoal do Marketing e outras áreas.
 
 
 ## Gráfico do Modelo Usando Árvore de Decisão
